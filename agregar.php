@@ -1,8 +1,8 @@
 <div>
     <form>
-        <label>Nombre:</label><br>
+        <label>Producto:</label><br>
         <input type="text" name="txtnombre"><br>
-        <label>Email:</label><br>
+        <label>cantidad:</label><br>
         <input type="text" name="txtcantidad"><br><br>
         <input type="submit" name="" value="Agregar">
         <a href="index.php">Regresar</a>
