@@ -8,7 +8,7 @@
 <div>
     <form>
         <input type="hidden" name="txtcodigo" value="<?php echo $fila['codigo'] ?>">
-        <label>Usuario:</label><br>
+        <label>Producto:</label><br>
         <input type="text" name="txtnombre" value="<?php echo $fila['nombre'] ?>"><br>
         <label>Cantidad:</label><br>
         <input type="text" name="txtcantidad" value="<?php echo $fila['cantidad'] ?>"><br><br>
