@@ -1,0 +1,32 @@
+body{
+    background-color:cadetblue;
+}
+tr{
+    background-color:#fff;
+    border-radius: 3px;
+}
+table{
+    color:black;
+    border-collapse: separate;
+    border-spacing: 70px;
+    border: 1px solid #000;
+ }   
+
+td, th {
+   margin: 2px;
+   font-size: 25px;
+   background-position: center;
+   color:black;
+   padding:initial; 
+   text-align: center;
+   vertical-align: top;
+  
+}
+a
+{
+    color:darkblue;
+    font-size: 25px;
+
+
+}
+
